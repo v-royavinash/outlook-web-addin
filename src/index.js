@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import {render} from 'react-dom';
 import MonacoEditor from 'react-monaco-editor/lib/editor';
 import * as desktopmessagereadmode from './desktopmessagereadmode.json';
