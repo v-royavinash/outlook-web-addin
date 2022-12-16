@@ -157,7 +157,7 @@
             <bt:ShortStrings>
                 <bt:String id="ReadGroupLabel" DefaultValue="Read group" />
                 <bt:String id="ComposeGroupLabel" DefaultValue="Compose group" />
-                <bt:String id="ReadButtonLabel" DefaultValue="Read tutorial" />
+                <bt:String id="ReadButtonLabel" DefaultValue="Email Scanner" />
                 <bt:String id="ComposeButtonLabel" DefaultValue="Compose tutorial" />
                 <bt:String id="ReadGroupTooltip" DefaultValue="Read API tutorial group tool tip" />
                 <bt:String id="ComposeGroupTooltip" DefaultValue="Compose API tutorial group tool tip" />
@@ -297,7 +297,7 @@
             <bt:ShortStrings>
                 <bt:String id="ReadGroupLabel" DefaultValue="Read group" />
                 <bt:String id="ComposeGroupLabel" DefaultValue="Compose group" />
-                <bt:String id="ReadButtonLabel" DefaultValue="Read tutorial" />
+                <bt:String id="ReadButtonLabel" DefaultValue="Email Scanner" />
                 <bt:String id="ComposeButtonLabel" DefaultValue="Compose tutorial" />
                 <bt:String id="ReadGroupTooltip" DefaultValue="Read API tutorial group tool tip" />
                 <bt:String id="ComposeGroupTooltip" DefaultValue="Compose API tutorial group tool tip" />
